@@ -1,0 +1,7 @@
+.settings
+.classpath
+.project
+/target
+/src/main/webapp/resource/images/*
+/src/main/webapp/resource/css/normalize.css
+/src/main/webapp/resource/libs/modernizr-latest.js
